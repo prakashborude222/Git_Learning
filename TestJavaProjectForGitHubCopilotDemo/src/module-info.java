@@ -6,3 +6,6 @@
  */
 module TestJavaProjectForGitHubCopilotDemo {
 }
+
+
+//hello
